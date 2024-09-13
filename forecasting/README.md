@@ -24,6 +24,8 @@ How to Use It:
 Created a line chart to plot historical data (e.g., sales, revenue, etc.).
 Identified trends and potential outliers by observing the trajectory of the plotted data points.
 
+!(https://github.com/LakshyaChauhan/Forecasting/blob/main/forecasting/assets/line_chart.png)
+
 ## Forecast Sheet:
 Purpose: The Forecast Sheet tool in Excel generates a forecast based on historical data and displays it with confidence intervals.
 How To Use It:
