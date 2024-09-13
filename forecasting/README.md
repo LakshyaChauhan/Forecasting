@@ -31,3 +31,5 @@ Purpose: The Forecast Sheet tool in Excel generates a forecast based on historic
 How To Use It:
 Automatically generated a forecast sheet from historical data, predicting future values with a visual display of the projected trend.
 Used confidence intervals to quantify the uncertainty in the forecasted values, providing a comprehensive view of future possibilities.
+
+![Solution image](https://github.com/LakshyaChauhan/Forecasting/blob/main/forecasting/assets/forecast_sheet.png)
